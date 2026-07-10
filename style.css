@@ -105,15 +105,10 @@ nav ul li a:hover {
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
     margin-bottom: 2rem;
 }
-h1 {
-    margin-bottom: 1.5rem;
-    text-align: center;
-}
-h2 {
+h1, h2 {
     margin-bottom: 1.5rem;
     text-align: left;
 }
-
 p {
     margin-bottom: 1.2rem;
 }
